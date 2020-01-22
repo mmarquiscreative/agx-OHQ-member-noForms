@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row" id="ohq-main">
     <div class="col-sm-8 col-sm-offset-2">
         <div id="form-container">
             <div class="page-header text-center">

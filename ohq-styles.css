@@ -20,7 +20,7 @@ ag purple:  #532d6d
 grey:       #3d3935
 */
 
-.active {
+#ohq-main .active {
     display: block;
 }
 
@@ -593,7 +593,7 @@ OBJECT ELEMENTS
     font-weight: 700;
 }
 
-[class*='score-'] {
+#ohq-main [class*='score-'] {
     color: #532d6d;
     font-size: 220%;
     left: 50%;

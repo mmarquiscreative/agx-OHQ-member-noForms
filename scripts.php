@@ -72,7 +72,7 @@ function agx_hearing_test_styles() {
 add_action( 'wp_enqueue_scripts', 'wpb_add_google_fonts' );
 
 	
-	wp_register_style( 'agx-hearing-test-styles', plugins_url( 'styles.css', __FILE__ ) );
+	wp_register_style( 'agx-hearing-test-styles', plugins_url( 'ohq-styles.css', __FILE__ ) );
 	wp_enqueue_style( 'agx-hearing-test-styles' );
 
 add_action('wp_enqueue_scripts', 'agx_hearing_test_styles');

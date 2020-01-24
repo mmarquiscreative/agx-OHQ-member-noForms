@@ -990,7 +990,7 @@ BUTTONS
 RESPONSIVE STYLES
 ******************************************************************/
 
-@media (min-width: 200px) {
+@media (min-width: 200px) and (max-width: 1000px) {
 
     html {
         font-size: 80%;
